@@ -26,14 +26,12 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { name: "LinkedIn", icon: Linkedin, href: "#" },
-  { name: "Twitter", icon: Twitter, href: "#" },
-  { name: "Instagram", icon: Instagram, href: "#" },
+  { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/klyra.works.ec/" },
 ];
 
 const contactInfo = [
   { icon: Mail, text: "contacto@klyraworks.com", href: "mailto:contacto@klyraworks.com" },
-  { icon: Phone, text: "+593 99 999 9999", href: "tel:+593999999999" },
+  { icon: Phone, text: "+593 98 301 9855", href: "tel:+593983019855" },
   { icon: MapPin, text: "Cotopaxi, Ecuador" },
 ];
 

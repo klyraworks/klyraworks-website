@@ -62,7 +62,7 @@ export function Hero() {
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-accent" />
             </span>
             <span className="text-sm font-medium text-foreground/80 tracking-wide">
-              Soluciones de Software Personalizadas
+              Soluciones de software a tu medida
             </span>
           </div>
 
@@ -172,7 +172,7 @@ export function Hero() {
               }}
             >
               <div className="absolute -inset-8 bg-accent/15 rounded-[32px] blur-[60px] animate-glow-pulse" />
-              <div className="absolute -inset-2 bg-gradient-to-br from-accent/10 via-transparent to-primary/10 rounded-3xl blur-2xl" />
+              <div className="absolute -inset-2 from-accent/10 via-transparent to-primary/10 rounded-3xl blur-2xl" />
             </div>
           </div>
         </div>
@@ -185,7 +185,7 @@ export function Hero() {
         }`}
       >
         <a
-          href="#services"
+          href="#servicios"
           className="group flex flex-col items-center gap-3 text-muted-foreground/60 hover:text-accent transition-colors duration-300"
         >
           <span className="text-[10px] font-semibold tracking-[0.25em] uppercase">

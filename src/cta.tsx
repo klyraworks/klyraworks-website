@@ -83,7 +83,7 @@ export function CTA() {
         />
 
         {/* Gradient overlays */}
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-primary to-transparent opacity-50" />
+        <div className="absolute inset-0 from-transparent via-primary to-transparent opacity-50" />
       </div>
 
       <div className="container relative mx-auto px-4">
