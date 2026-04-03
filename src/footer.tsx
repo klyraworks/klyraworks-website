@@ -19,8 +19,8 @@ const footerLinks = {
     { name: "Contacto", href: "mailto:contacto@klyraworks.com" },
   ],
   legal: [
-    { name: "Privacidad", href: "#" },
-    { name: "Términos", href: "#" },
+    { name: "Privacidad", href: "/privacidad" },
+    { name: "Términos", href: "/terminos" },
     { name: "Cookies", href: "#" },
   ],
 };
